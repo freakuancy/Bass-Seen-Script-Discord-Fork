@@ -30,7 +30,7 @@
 
 # If using a discord<->IRC bridge such as reactiflux's, set 
 # the name of your bot here
-set discbot "freakuancy"
+set discbot "IRCDiscord"
 
 #bs(limit) is the database record limit.  
 set bs(limit) 4000
